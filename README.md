@@ -15,5 +15,5 @@ As linguagens utilizadas nesse projeto foram:
   karinenascimentopro@gmail.com
   <div>
 <a href="https://www.instagram.com/sskahj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/posts/karine-nascimentohs_linkedin-javascript-css-activity-6977028956436750336-kuIa?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karine-nascimentohs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
